@@ -1,0 +1,12 @@
+.container{
+    margin: 32px 20px;
+}
+
+.content{
+    margin: 32px 40px;
+}
+
+.list{
+    list-style: none;
+    padding: 0;
+}
